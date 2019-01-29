@@ -1,2 +1,2 @@
-# MEMZ-4.0
-Do not start MEMZ-Destructive.exe or .bat!!!This will kill your MBR!!!Try payloads in MEMZ-Clean!MEMZ-Clean isn't destructive,you can watch payloads with it.
+# MEMZ-4.0 - MuscleNerd
+I have modified the original MEMZ.EXE to include NO PROMPTS. This will skip right to the payload that includes boot sector overwriting. DO NOT RUN THIS ON YOUR COMPUTER! THIS IS FOR EDUCATIONAL PURPOSES ONLY!
